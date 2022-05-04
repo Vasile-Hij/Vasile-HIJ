@@ -1,8 +1,9 @@
 ### :wave: Greetings, my name is Vasile
 - Python developer :seedling: 
 - Excel expert as working experience :bar_chart: :open_file_folder:
-- Cycling is a part of my life :mountain_bicyclist:
+- Cycling is a part of my life :mountain_bicyclist: [Check me on Strava](https://www.strava.com/athletes/1906872)
 - Former history teacher and hiring supervisor :bookmark_tabs: :department_store:
+- [Medium](https://vasilehij.medium.com) articles pulished :books:
 
 
 &nbsp;
