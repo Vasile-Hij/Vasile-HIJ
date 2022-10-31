@@ -1,5 +1,4 @@
 ### 👋 Greetings, my name is Vasile
-
 &nbsp;
 <div align="justify">
   Aspirant Full Stack Developer - Self-determined in this moment of my career transition, I am learning Python and Django framework for backend while for frontend JavaScript and React adding other tools that will make me a Full Stack Developer.  
@@ -41,7 +40,7 @@
       <br /><strong>Flask</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img`
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
         width="48"
         height="48"
