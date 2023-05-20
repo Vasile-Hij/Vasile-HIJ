@@ -41,12 +41,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg"
         width="48"
         height="48"
-        alt="SQLite"
+        alt="MySQL"
         />
-      <br /><strong>SQLite</strong>
+      <br /><strong>SQL</strong>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
